@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\GOD2FAT\GOD2FAT\obj\x86\Debug\GOD2FAT.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\GOD2FAT\GOD2FAT\obj\x86\Debug\GOD2FAT.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\GOD2FAT\GOD2FAT\obj\x86\Debug\GOD2FAT.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\GOD2FAT\GOD2FAT\obj\x86\Debug\GOD2FAT.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\GOD2FAT\GOD2FAT\bin\Debug\GOD2FAT.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\GOD2FAT\GOD2FAT\bin\Debug\GOD2FAT.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\GOD2FAT\GOD2FAT\obj\x86\Debug\GOD2FAT.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\GOD2FAT\GOD2FAT\obj\x86\Debug\GOD2FAT.pdb
